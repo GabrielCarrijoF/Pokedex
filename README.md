@@ -4,6 +4,8 @@
   
   * Execução: Para poder executar basta fazer download do projeto, ter um editor de código-fonte compativel com as linguagens, e executar o projeto.
   
+  * Tambem disponivel no GitHub Pages =)
+  
   <tr>
   
   
